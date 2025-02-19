@@ -30,7 +30,7 @@ const KeyMapping defaultKeymap[24] = {
     {&RectangleInput::dLeft, KC_C},
     {&RectangleInput::dRight, KC_B},
     {&RectangleInput::dDown, KC_V},
-    {&RectangleInput::dUp, KC_F},
+    {&RectangleInput::dUp, KC_G},
 };
 
 const KeyMapping remappedKeymap[24] = {
